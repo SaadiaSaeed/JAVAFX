@@ -1,0 +1,2 @@
+Are you Efficient is a testing appplication, it test your efficiency in different fields like Mathematics, Physics, English, Chemistry and General knowlegd and tells you your efficiency level.
+This application can be converted into an E-Test application through minor changes. This application is using the Oracle 11g database so before copying this code you must donwload and install Oracle 11g Enterprise edition from oracle's website.
